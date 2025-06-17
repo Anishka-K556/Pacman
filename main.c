@@ -63,12 +63,12 @@ int main(void) {
     InitWindow(screenWidth, screenHeight, "Pacman Game");
     InitAudioDevice();
 
-    Music backgroundMusic = LoadMusicStream("C:\\Users\\anush\\Downloads\\pacman background music.mp3");
-    Music IntroMusic = LoadMusicStream("C:\\Users\\anush\\Downloads\\Pac-Man-Intro.mp3");
-    Sound pelletSound = LoadSound("C:\\Users\\anush\\Downloads\\pellet.mp3");
-    Sound superpelletSound = LoadSound("C:\\Users\\anush\\Downloads\\super pellet sound.mp3");
-    Sound ghost_eaten = LoadSound("C:\\Users\\anush\\Downloads\\ghost_eaten.mp3");
-    Sound pacman_eaten = LoadSound("C:\\Users\\anush\\Downloads\\pacman_eaten.mp3");
+    Music backgroundMusic = LoadMusicStream("assets\\pacman background music.mp3");
+    Music IntroMusic = LoadMusicStream("assets\\Pac-Man-Intro.mp3");
+    Sound pelletSound = LoadSound("assets\\pellet.mp3");
+    Sound superpelletSound = LoadSound("assets\\super pellet sound.mp3");
+    Sound ghost_eaten = LoadSound("assets\\ghost_eaten.mp3");
+    Sound pacman_eaten = LoadSound("assets\\pacman_eaten.mp3");
     SetMusicVolume(backgroundMusic, 1.0f);
 
     PlayMusicStream(backgroundMusic);
