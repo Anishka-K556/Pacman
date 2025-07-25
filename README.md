@@ -119,3 +119,10 @@ Pacman in C with Raylib: A fun, retro maze game where you guide Pac-Man with arr
 K Anishka , *SSN College of Engineering , Tamil nadu , India*
 
 Anne Jacika J , *SSN College of Engineering , Tamil nadu , India*
+
+Anushya V , *SSN College of Engineering , Tamil nadu , India*
+
+## License
+- © 2024 K. Anishka, Anne Jacika J, Anushya V. All rights reserved.
+
+This project is proprietary and may not be copied, modified, or distributed without permission.
