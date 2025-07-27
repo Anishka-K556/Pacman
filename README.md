@@ -115,7 +115,7 @@ Pacman in C with Raylib: A fun, retro maze game where you guide Pac-Man with arr
         * Press Resume button to continue the game
         * Press Restart button to start the game from the beginning
 
-##Demo
+# Demo
 
 ![Pacman Game Demo](https://github.com/user-attachments/assets/df95e551-c2de-4e6e-aa3f-5d9f635522df)
 
